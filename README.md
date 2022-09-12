@@ -1,4 +1,4 @@
-!(https://user-images.githubusercontent.com/61929964/189563006-787de75f-d9c8-413b-9a33-d12f61e439c8.png)
+![image](https://user-images.githubusercontent.com/61929964/189576841-aa853a74-d762-4543-aef7-95fd2fa2bbbb.png)
 
 
 ### Hi there, I'm Leigh! 👋
